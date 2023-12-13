@@ -2,6 +2,9 @@
 #include "Sales_item.hpp"
 
 int main() {
+  int a{1};
+  std::cout << a << std::endl;
+
   Sales_item total;
 
   if (std::cin >> total) {

@@ -5,7 +5,7 @@
 // comments    : operator <<, >> - tried inside of the class but didn't work,
 //                implemented it outside of the class later, and it worked!!
 //               codeguard(ifndef, define, endif) is not from the book,
-//                it's from CS170
+//                it's from the course CS170
 ////////////////////////////////////////////////////////////////////////////////
 #ifndef SALES_ITEM_HPP
 #define SALES_ITEM_HPP
